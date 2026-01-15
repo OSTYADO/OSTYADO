@@ -13,56 +13,36 @@
 ---
 
 ## 🧠 About Me
-I’m a developer passionate about **website development**, **automation**, and **bot engineering**.  
-I enjoy turning ideas into functional, scalable systems using modern web technologies.
-
-- 🌐 Full-stack web development  
-- 🤖 Bot & automation development  
-- ⚙️ API design and integration  
-- 🧩 Clean, modular, maintainable code  
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Web
-- HTML5, CSS3
-- JavaScript (ES6+)
-- Node.js
-- Express.js
-
-### 🤖 Bots & Automation
-- WhatsApp Bots (Baileys)
-- Event-driven systems
-- Session & pairing logic
-
-### 🗄️ Tools & Databases
-- MongoDB
-- Git & GitHub
-- Linux
-- VS Code
-
+{
+  "name": "Ostyado",
+  "focus": "Exploring Advanced Automation Workflows",
+  "bio": "Introvert Developer",
+  "skills": [
+    "Web Development",
+    "Bot Development",
+    "API Design & Integration",
+    "Clean & Maintainable Code"
+  ],
+  "techStack": {
+    "frontend": ["HTML5", "CSS", "JavaScript"],
+    "backend": ["Node.js", "Express.js"],
+    "database": ["MongoDB","Sql"],
+    "versionControl": ["Git", "GitHub"]
+  },
+  "style": {
+    "theme": "cool",
+    "emojis": true,
+    "chilled":true,
+    "animeTouch": true
+  }
+}
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,github,linux,vscode" />
 </p>
 
 ---
 
-## 🚀 What I Build
-- Responsive websites  
-- Backend APIs  
-- WhatsApp multi-device bots  
-- Automation tools  
-- Scalable Node.js applications  
 
----
-
-## 📌 Current Focus
-- Improving bot performance & reliability  
-- Writing clean and documented APIs  
-- Exploring advanced automation workflows  
-
----
 
 ## 📫 Connect With Me
 <p align="center">

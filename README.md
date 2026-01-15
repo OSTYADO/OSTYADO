@@ -9,10 +9,6 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1200&color=58A6FF&center=true&width=900&lines=Web+Developer;Node.js+%7C+Express.js+%7C+JavaScript+%7C+APIs;Building+clean+and+scalable+systems" />
 </div>
-
----
-
-## 🧠 About Me
 {
   "name": "Ostyado",
   "focus": "Exploring Advanced Automation Workflows",

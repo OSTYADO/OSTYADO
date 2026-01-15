@@ -1,9 +1,4 @@
-{ 
-name:"Ostyado",
-title:"web-developer",
-favourite:"JavaScript"
-}
-
+# I'm Ostyado
 <div align="center">
     <img src="https://raw.githubusercontent.com/OSTYADO/OSTYADO/main/kakashi.gif" width="600" alt="OSTYADO"/>
 </div>

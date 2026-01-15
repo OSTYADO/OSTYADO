@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Ostyado
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/8b/5e/0f/8b5e0f8b4a2c2e7c1d6f89b7a5c7f4c5.jpg" width="260" alt="anime coder"/>
+  <img src="https://files.catbox.moe/zg6l30.mp4" width="260" alt="anime coder"/>
 </div>
 
 <div align="center">

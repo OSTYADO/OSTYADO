@@ -35,6 +35,7 @@
     "animeTouch": true
   }
 }
+```
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,github,linux,vscode" />
 </p>

@@ -1,4 +1,8 @@
-#🦾 OSTYADO here
+``` json
+{
+"name":"OSTYADO"
+}
+```
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/OSTYADO/OSTYADO/main/kakashi.gif" width="600" alt="OSTYADO"/>

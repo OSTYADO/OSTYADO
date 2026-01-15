@@ -1,7 +1,7 @@
 { 
-"name":"Ostyado",
-"title":"web-developer",
-"favourite":"JavaScript"
+name:"Ostyado",
+title:"web-developer",
+favourite:"JavaScript"
 }
 
 <div align="center">

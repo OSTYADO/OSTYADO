@@ -5,7 +5,7 @@
 ```
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/OSTYADO/OSTYADO/main/kakashi.gif" width="600" alt="OSTYADO"/>
+    <img src="https://raw.githubusercontent.com/OSTYADO/OSTYADO/main/anime.gif" width="600" alt="OSTYADO"/>
 </div>
 
 <div align="center">

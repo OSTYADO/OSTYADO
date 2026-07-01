@@ -3,23 +3,7 @@
 "name":"OSTYADO"
 }
 ```
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OSTYADO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=OSTYADO&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-## 💻 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSTYADO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 <div align="center">
     <img src="https://raw.githubusercontent.com/OSTYADO/OSTYADO/main/anime.gif" width="600" alt="OSTYADO"/>
 </div>

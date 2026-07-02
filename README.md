@@ -3,7 +3,7 @@
 "name":"OSTYADO"
 }
 ```
-
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 <div align="center">
     <img src="https://raw.githubusercontent.com/OSTYADO/OSTYADO/main/anime.gif" width="600" alt="OSTYADO"/>
 </div>
